@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Vishvjeetsinghrathore751@gmail.com**
 
-- 📄 Know about my experiences (Resume) [https://drive.google.com/file/d/1sMrlLOZ5JmCuavuE8Bjg3640e7aluYgf/view?usp=drivesdk](https://drive.google.com/file/d/1sMrlLOZ5JmCuavuE8Bjg3640e7aluYgf/view?usp=drivesdk)
+- 📄 Know about my experiences (Resume) [Resume](https://drive.google.com/file/d/151npHweoNg50QSJG7iW0bgp9YZNP5t47/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
