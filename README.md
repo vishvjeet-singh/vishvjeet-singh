@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java (Spring Boot) , AWS, DevOps**
 
-- 📝 I write articles on [https://medium.com/@vishvjeetsinghrathore751](https://medium.com/@vishvjeetsinghrathore751)
+- 📝 I write articles on [Medium :Blogs](https://medium.com/@vishvjeetsinghrathore751)
 
 - 💬 Ask me about **AWS, Java, Cloud Computing**
 
